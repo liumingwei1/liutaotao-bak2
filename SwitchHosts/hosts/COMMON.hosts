@@ -1,0 +1,5 @@
+#@SwitchHosts! {"url": null, "icon_idx": 0, "title": "COMMON.hosts"}
+# common
+
+192.168.0.47 maven.taotao.com
+192.168.0.47 svn.taotao.com
